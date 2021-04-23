@@ -1,11 +1,13 @@
 <template>
   <div>Vue3</div>
 </template>
-<script>
-export default {
+<script lang="ts">
+import { defineComponent } from "vue";
+export default defineComponent({
+  name: "APP",
   setup() {
   },
-};
+});
 </script>
 <style>
 div {

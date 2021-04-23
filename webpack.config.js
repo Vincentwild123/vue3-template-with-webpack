@@ -10,7 +10,7 @@ const {
 } = require('clean-webpack-plugin')
 module.exports = {
     mode: 'development', // 环境模式
-    entry: path.resolve(__dirname, 'index.js'), // 打包入口
+    entry: path.resolve(__dirname, 'index.ts'), // 打包入口
     output: {
         path: path.resolve(__dirname, 'dist'), // 打包出口
         filename: 'bundle.js' // 打包完的静态资源文件名

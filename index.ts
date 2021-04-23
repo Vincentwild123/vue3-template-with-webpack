@@ -1,3 +1,5 @@
+//导入声明文件，声明vue类型模块
+/// <reference path = "./globalDeclare.d.ts" />
 import {
     createApp
 } from 'vue' // Vue 3.x 引入 vue 的形式
