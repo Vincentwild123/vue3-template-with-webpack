@@ -23,7 +23,7 @@
   },
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
-    "server": "webpack serve --progress --config ./webpack.config.js"
+    "server": "webpack serve --config ./webpack.config.js"
   },
   "dependencies": {
     "vue": "^3.0.11"
