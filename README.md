@@ -1,5 +1,5 @@
 ## 📄Description
-**a template to create your vue3 projecy**
+**a template to create your vue3 project**
 
 
 ## 🔑Usage
